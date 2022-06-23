@@ -7,3 +7,4 @@ Execute
 Multiple permissions to access class
 Add execute to all
 All; All permissions
+Set to -rwxr-x-wx
