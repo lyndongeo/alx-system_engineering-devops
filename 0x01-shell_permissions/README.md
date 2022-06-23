@@ -5,3 +5,4 @@ Change new owner
 Empty file
 Execute
 Multiple permissions to access class
+Add execute to all
