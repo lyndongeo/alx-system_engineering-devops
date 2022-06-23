@@ -9,3 +9,4 @@ Add execute to all
 All; All permissions
 Set to -rwxr-x-wx
 Mirror 2 files
+Directories
