@@ -10,3 +10,4 @@ Task 7; Shell script that creates a file
 Task 8; script that writes into another file
 Script that duplicates the last line of the file
 script that deletes all the regular files
+Task 11; script that counts the number of directories and sub-directories in the current directory
