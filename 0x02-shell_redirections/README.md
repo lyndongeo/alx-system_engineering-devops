@@ -20,3 +20,4 @@ Task 17; Display all the lines in the file /etc/passwd that do not contain the p
 Task 18; Display all lines of the file
 Task Replace all characters A and c from input to Z and e respectively
 Task 20; Create a script that removes all letters c and C from input
+script that reverse its input
