@@ -7,3 +7,4 @@ Task 5; script that lists all local variables and environment variables, and fun
 Task 6; script that creates a new local variable
 Task 7; Creating a global variable
 Task 8; Script with arithmetic
+Task 9; Script that prints the result of POWER divided by DIVIDE, environment variables
