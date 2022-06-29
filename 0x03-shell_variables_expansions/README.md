@@ -11,3 +11,4 @@ Task 9; Script that prints the result of POWER divided by DIVIDE, environment va
 Task 10; Script that displays the result of BREATH to the power of LOVE, environment variables
 Task 11; Script that converts a number from base 2 to base 10
 Task 12; Create a script that prints all possible combinations of two letters, except oo
+Task 13; Script that prints a number with 2 decimal places
