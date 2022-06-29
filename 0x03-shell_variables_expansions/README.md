@@ -9,3 +9,4 @@ Task 7; Creating a global variable
 Task 8; Script with arithmetic
 Task 9; Script that prints the result of POWER divided by DIVIDE, environment variables
 Task 10; Script that displays the result of BREATH to the power of LOVE, environment variables
+Task 11; Script that converts a number from base 2 to base 10
